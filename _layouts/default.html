@@ -18,6 +18,10 @@
 
   </head>
   <body>
+    
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
+    
       <div id="header">
         <nav>
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
@@ -42,6 +46,8 @@
         {% include nav.html %}
 
         {{ content }}
+        
+        <div class="fb-like" data-href="https://bayleyevason494.github.io/portfolio/" data-width="" data-layout="standard" data-action="recommend" data-size="small" data-share="true"></div>
 
       </section>
 
