@@ -10,8 +10,8 @@
 
 ### social media accounts
 
-- [instagram(Business](https://www.instagram.com/)
-- [instagram(Personsal](https://www.instagram.com/)
+- [instagram(Business)](https://www.instagram.com/)
+- [instagram(Personsal)](https://www.instagram.com/)
 
 
 <h4>hi </h4>
