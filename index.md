@@ -16,4 +16,8 @@
 - [instagram(Personsal)](https://www.instagram.com/)
 
 
+### Game 
+<a href="game.html">Play the Game.</a>
+
+
 
