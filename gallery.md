@@ -10,15 +10,15 @@ layout: default
   <a target="_blank" href="assets/gallery/png.1.PNG">
     <img src="assets/gallery/png.1.PNG" alt="Homepage" width="100%" >
   </a>
-  <div class="desc"> Here is a snapshot of people playing my game </div>
+  <div class="desc"> this is the main menu for my game </div>
 </div>
 
 
 <div class="gallery">
-  <a target="_blank" href="assets/gallery/2.png">
-    <img src="assets/gallery/2.png" alt="Homescreen" width="100%" >
+  <a target="_blank" href="assets/gallery/png.2.PNG">
+    <img src="assets/gallery/png.2.PNG" alt="Homescreen" width="100%" >
   </a>
-  <div class="desc"> This is the home screen of my game i made this home page </div>
+  <div class="desc"> This is the level layout of level 1 </div>
 </div>
   
  
