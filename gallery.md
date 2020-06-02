@@ -7,8 +7,8 @@ layout: default
 
 
 <div class="gallery">
-  <a target="_blank" href="assets/gallery/1.png">
-    <img src="assets/gallery/1.png" alt="gameplay" width="100%" >
+  <a target="_blank" href="assets/gallery/png.1">
+    <img src="assets/gallery/png.1" alt="gameplay" width="100%" >
   </a>
   <div class="desc"> Here is a snapshot of people playing my game </div>
 </div>
