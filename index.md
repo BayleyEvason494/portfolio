@@ -19,5 +19,7 @@
 ### Game 
 <a href="game.html">Play the Game.</a>
 
+<a href="game.html">Play the Game 2.</a>
+
 
 
